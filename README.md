@@ -1942,3 +1942,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [brianolson/go-openid](https://github.com/brianolson/go-openid) - OpenID implementation in Go
 * [IniZio/Go](https://github.com/IniZio/Go) - This is a lab for Go!
 * [6xiao/go](https://github.com/6xiao/go) - generic code
+* [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) - JSON-RPC 2.0 over HTTP client written in go
