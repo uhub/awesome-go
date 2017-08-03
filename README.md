@@ -297,6 +297,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [go-zoo/bone](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer
 * [golang/example](https://github.com/golang/example) - Go example projects
 * [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
+* [mchain](https://github.com/prasannavl/mchain) - A super tiny go subpackage that handles middleware chaining in it's most minimal form
 * [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 * [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 * [haxpax/gosms](https://github.com/haxpax/gosms) - :mailbox_closed: Your own local SMS gateway in Go
