@@ -5,6 +5,8 @@ A curated list of awesome Go frameworks, libraries and software.
 * [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [golang/go](https://github.com/golang/go) - The Go programming language
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+* [alexellis/faas](https://github.com/alexellis/faas) - Serverless FaaS framework for Docker and Kubernetes
+* [alexellis/derek](https://github.com/alexellis/derek) - bot for managing GitHub issues and PRs
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 * [gogits/gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
