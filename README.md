@@ -153,7 +153,8 @@ A curated list of awesome Go frameworks, libraries and software.
 * [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server in Go
 * [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 * [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
-* [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
+* [thedevsaddam/govalidator](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation
+* [thedevsaddam/task](https://github.com/thedevsaddam/task) - Terminal tasks todo with reminder tool for geek
 * [olebedev/go-starter-kit](https://github.com/olebedev/go-starter-kit) - Golang isomorphic react/hot reloadable/redux/css-modules  starter kit
 * [go-macaron/macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 * [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based CA, written in Go.
