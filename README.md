@@ -2,6 +2,7 @@
 
 A curated list of awesome Go frameworks, libraries and software.
 
+* [spacemesh/go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Spacemesh open source project - blockchain decentralized computer without POW energy waste.
 * [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [golang/go](https://github.com/golang/go) - The Go programming language
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
