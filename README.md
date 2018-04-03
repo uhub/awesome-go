@@ -61,6 +61,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 * [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 * [gorilla/websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
+* [GoWebsocket](https://github.com/sacOO7/GoWebsocket) - Gorilla websockets based simplified websocket-client implementation in GO.
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 * [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 * [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
