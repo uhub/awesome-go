@@ -60,6 +60,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [gravitational/teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 * [gorilla/websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
+* [GoWebsocket](https://github.com/sacOO7/GoWebsocket) - Gorilla websockets based simplified websocket-client implementation in GO.
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 * [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 * [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
