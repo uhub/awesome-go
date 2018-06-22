@@ -1008,7 +1008,6 @@ A curated list of awesome Go frameworks, libraries and software.
 * [benbjohnson/ego](https://github.com/benbjohnson/ego) - An ERB-style templating language for Go.
 * [igm/sockjs-go](https://github.com/igm/sockjs-go) - WebSocket emulation - Go server library
 * [graymeta/stow](https://github.com/graymeta/stow) - Cloud storage abstraction package for Go
-* [asciimoo/colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers
 * [skynetservices/skynet](https://github.com/skynetservices/skynet) - Skynet is a framework for distributed services in Go.
 * [chanxuehong/wechat.v2](https://github.com/chanxuehong/wechat.v2) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
 * [bradrydzewski/go.auth](https://github.com/bradrydzewski/go.auth) - [DEPRECATED] authentication API for Go web applications
