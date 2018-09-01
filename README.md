@@ -41,6 +41,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+* [aisk/vox](https://github.com/aisk/vox) - A golang web framework for humans, inspired by Koa heavily.
 * [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 * [derekparker/delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 * [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
