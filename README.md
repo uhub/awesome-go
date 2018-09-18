@@ -63,6 +63,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 * [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 * [gravitational/teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
+* [infinytum/flatstorage](https://github.com/infinytum/flatstorage) - Easy to use, file-based object storage
 * [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 * [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
