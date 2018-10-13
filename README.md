@@ -1035,7 +1035,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 * [sourcegraph/thesrc](https://github.com/sourcegraph/thesrc) - Example of a 3-layer (frontend, API, datastore) Go web app (based on the code that powers https://sourcegraph.com)
 * [adjust/redismq](https://github.com/adjust/redismq) - a durable message queue system for go based on redis, see also https://github.com/adjust/rmq
-* [jteeuwen/go-bindata](https://github.com/jteeuwen/go-bindata) - A small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
+* [jteeuwen/go-bindata](https://github.com/jteeuwen/go-bindata) - (not maintained) A small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
 * [chanxuehong/wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
 * [streamlist/streamlist](https://github.com/streamlist/streamlist) - Streamlist - self-hosted music server written in Go
 * [divan/depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
