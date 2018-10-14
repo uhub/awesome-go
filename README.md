@@ -24,7 +24,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 * [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 * [minio/minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs
-* [kataras/iris](https://github.com/kataras/iris) - The fastest backend community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Can your favourite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2
+* [kataras/iris](https://github.com/kataras/iris) - The fastest backend community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Can your favorite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2
 * [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 * [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 * [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
