@@ -2412,3 +2412,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [brianolson/go-openid](https://github.com/brianolson/go-openid) - OpenID implementation in Go
 * [IniZio/Go](https://github.com/IniZio/Go) - This is a lab for Go!
 * [6xiao/go](https://github.com/6xiao/go) - generic code
+* [ockam-network/did](https://github.com/ockam-network/did) - DID (Decentralized Identifiers) Parser and Stringer in Go.
