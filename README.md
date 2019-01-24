@@ -2412,3 +2412,5 @@ A curated list of awesome Go frameworks, libraries and software.
 * [brianolson/go-openid](https://github.com/brianolson/go-openid) - OpenID implementation in Go
 * [IniZio/Go](https://github.com/IniZio/Go) - This is a lab for Go!
 * [6xiao/go](https://github.com/6xiao/go) - generic code
+* [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little e-book on Ethereum Development with Go.
+* [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning.
