@@ -2441,3 +2441,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [IniZio/Go](https://github.com/IniZio/Go) - This is a lab for Go!
 * [6xiao/go](https://github.com/6xiao/go) - generic code
 * [miguelpragier/handy](https://github.com/miguelpragier/handy) - Tools and helpers for all level of programs and programmers
+* [documize/community](https://github.com/documize/community) - Open source Confluence alternative built with Go and EmberJS
