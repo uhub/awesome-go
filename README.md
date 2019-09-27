@@ -2535,3 +2535,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [IniZio/Go](https://github.com/IniZio/Go) - This is a lab for Go!
 * [6xiao/go](https://github.com/6xiao/go) - generic code
 * [miguelpragier/handy](https://github.com/miguelpragier/handy) - Tools and helpers for all level of programs and programmers
+* [v-braun/go2p](https://github.com/v-braun/go2p) - Simple to use but full configurable p2p framework
