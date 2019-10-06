@@ -2546,3 +2546,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [IniZio/Go](https://github.com/IniZio/Go) - This is a lab for Go!
 * [6xiao/go](https://github.com/6xiao/go) - generic code
 * [miguelpragier/handy](https://github.com/miguelpragier/handy) - Tools and helpers for all level of programs and programmers
+* [container](https://github.com/golobby/container) - A powerful IoC Container with fluent and easy-to-use interface.
