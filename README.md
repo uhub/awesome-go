@@ -2570,3 +2570,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [container](https://github.com/golobby/container) - A powerful IoC Container with fluent and easy-to-use interface.
 * [KeisukeYamashita/biko](https://github.com/KeisukeYamashita/biko) - CLI tool to jump to your browser directly
 * [Allenxuxu/gev](https://github.com/Allenxuxu/gev) - 🚀 a lightweight, fast non-blocking TCP network library based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers. 🚀一个轻量、比标准库更快的基于 Reactor 模式的非阻塞 TCP 网络库，支持自定义协议，轻松快速搭建高性能服务器。
+* [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way. You can use conventional pub/sub implementations like Kafka, NATS, Google Cloud Pub/Sub or RabbitMQ, but also HTTP or MySQL binlog if that fits your use case.
