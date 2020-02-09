@@ -6,6 +6,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+* [gofiber/fiber](https://github.com/gofiber/fiber) - 🔌 Fiber is an Express.js styled HTTP web framework implementation running on 🚀 Fasthttp.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 * [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
