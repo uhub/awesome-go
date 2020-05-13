@@ -394,3 +394,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 * [colinmarc/hdfs](https://github.com/colinmarc/hdfs) - A native go client for HDFS
 * [steve0hh/midas](https://github.com/steve0hh/midas) - Go implementation of MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams
+* [abahmed/gearbox](https://github.com/abahmed/gearbox) - :gear: A web framework written in Go with a focus on high performance and memory optimization
