@@ -395,4 +395,5 @@ A curated list of awesome Go frameworks, libraries and software.
 * [colinmarc/hdfs](https://github.com/colinmarc/hdfs) - A native go client for HDFS
 * [steve0hh/midas](https://github.com/steve0hh/midas) - Go implementation of MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams
 * [gookit/color](https://github.com/gookit/color) - A command-line color library with true color support, universal API methods and Windows support.
+* [si3nloong/sqlike](https://github.com/si3nloong/sqlike) - A MySQL ORM that support UUID, JSON, Spatial, generated column and many more.
 
