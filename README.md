@@ -61,7 +61,6 @@ A curated list of awesome Go frameworks, libraries and software.
 * [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 * [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 * [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
-* [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 * [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 * [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 * [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
