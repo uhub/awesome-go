@@ -941,3 +941,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [colinmarc/hdfs](https://github.com/colinmarc/hdfs) - A native go client for HDFS
 * [steve0hh/midas](https://github.com/steve0hh/midas) - Go implementation of MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams
 * [gookit/color](https://github.com/gookit/color) - A command-line color library with true color support, universal API methods and Windows support.
+* [go-projectGenerator](https://github.com/ClementBolin/go-projectGenerator) - Generate Go project with Makefile, main.go, git, gitignore, go.mod in Go.
