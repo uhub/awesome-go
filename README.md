@@ -358,6 +358,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 * [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 * [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+* [taskctl/taskctl](https://github.com/taskctl/taskctl) - Modern concurrent task runner
 * [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 * [aceld/zinx](https://github.com/aceld/zinx) - 基于Golang轻量级TCP并发服务器框架
 * [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
