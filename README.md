@@ -13,6 +13,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 * [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 * [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+* [hedhyw/jsoncjson](https://github.com/hedhyw/jsoncjson) - JSONC (JSON with comments) to JSON streamer
 * [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 * [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 * [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
