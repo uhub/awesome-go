@@ -505,6 +505,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [henrylee2cn/erpc](https://github.com/henrylee2cn/erpc) - An efficient, extensible and easy-to-use RPC framework.
 * [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 * [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
+* [manuelbcd/go-openproject](https://github.com/manuelbcd/go-openproject) - OpenProject client library written in Go
 * [gopher-os/gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 * [gernest/utron](https://github.com/gernest/utron) - A lightweight MVC framework for Go(Golang)
 * [floyernick/Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
