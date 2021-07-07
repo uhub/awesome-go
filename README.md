@@ -308,6 +308,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 * [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 * [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
+* [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Go-WEBp is a simple and fast library for encoding/decoding webp pictures, using C binding for libwebp
 * [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 * [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 * [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
