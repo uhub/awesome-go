@@ -35,6 +35,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 * [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+* [lvyahui8/goenum](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. Go通用枚举实现，用最简单的方式实现枚举。
 * [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 * [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 * [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
