@@ -32,7 +32,6 @@ A curated list of awesome Go frameworks, libraries and software.
 * [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-* [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 * [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 * [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
