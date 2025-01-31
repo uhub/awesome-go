@@ -40,6 +40,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 * [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
+* [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang) - A guide to implementing Role-Based Access Control (RBAC) in Go with code examples.
 * [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 * [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 * [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
