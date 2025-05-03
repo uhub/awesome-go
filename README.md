@@ -36,6 +36,8 @@ A curated list of awesome Go frameworks, libraries and software.
 * [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 * [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 * [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+* [lvyahui8/goenum](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods. Go通用枚举实现，用最简单的方式实现枚举。
+* [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 * [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 * [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
