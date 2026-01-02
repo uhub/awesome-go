@@ -168,6 +168,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 * [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
 * [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+* [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 * [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 * [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 * [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
