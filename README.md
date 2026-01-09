@@ -10,6 +10,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 * [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+* [gomarten/marten](https://github.com/gomarten/marten) - Minimalist Go web framework, elegant by design, zero external dependencies, nothing in the way.
 * [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 * [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
