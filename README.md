@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/uhub-awesome-go-badge.png)](https://mseep.ai/app/uhub-awesome-go)
+
 # awesome-go
 
 A curated list of awesome Go frameworks, libraries and software.
