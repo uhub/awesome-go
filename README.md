@@ -1014,6 +1014,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [howeyc/fsnotify](https://github.com/howeyc/fsnotify) - File system notification for Go
 * [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 * [levigross/grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library
+* [lib4u/grequest](https://github.com/lib4u/grequest) - A simple and lightweight HTTP client for Go, inspired by Requests (Python) and Guzzle (PHP).
 * [filecoin-project/venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go
 * [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 * [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
