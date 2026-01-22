@@ -222,6 +222,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 * [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 * [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
+* [qvcloud/broker](https://github.com/qvcloud/broker) - A production-grade messaging abstraction for Go, supporting Kafka, RabbitMQ, RocketMQ, NATS, Redis and AWS SQS. (生产级 Go 消息中间件抽象层)
 * [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 * [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 * [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
