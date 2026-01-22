@@ -5,6 +5,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 * [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 * [golang/go](https://github.com/golang/go) - The Go programming language
+* [qvcloud/broker](https://github.com/qvcloud/broker) - A production-grade messaging abstraction for Go. Unified API for Kafka, RabbitMQ, RocketMQ, NATS, Redis, and AWS SQS with built-in OpenTelemetry.
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
