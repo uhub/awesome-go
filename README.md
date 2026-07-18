@@ -1135,3 +1135,4 @@ A curated list of awesome Go frameworks, libraries and software.
 * [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 * [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 * [monkeyWie/gopeed-core](https://github.com/monkeyWie/gopeed-core) - A fast download client,support HTTP&P2P.
+* [guimaraeslucas/axonasp](https://github.com/guimaraeslucas/axonasp) - High-performance web server and runtime built in Go, executing server-side JavaScript and Classic ASP (VBScript).
