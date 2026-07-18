@@ -5,6 +5,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 * [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 * [golang/go](https://github.com/golang/go) - The Go programming language
+* [qvcloud/broker](https://github.com/qvcloud/broker) - A production-grade messaging abstraction for Go. Unified API for Kafka, RabbitMQ, RocketMQ, NATS, Redis, and AWS SQS with built-in OpenTelemetry.
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
